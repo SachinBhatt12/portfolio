@@ -1,0 +1,149 @@
+.text1 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.text2 {
+  margin-top: 2%;
+  color: #fcf8f8;
+  font-family: Poppins;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.text3 {
+  margin-top: 2%;
+  color: #bc93cf;
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.text4 {
+  margin-top: 3%;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: 608px;
+}
+#hireme {
+  margin-top: 10%;
+  display: inline-flex;
+  padding: 10px 50px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border-radius: 20px;
+  border: 3px solid #fffdfd;
+  background: #bc93cf;
+  box-shadow: 0px 8px 30px 0px rgba(0, 0, 0, 0.25);
+}
+
+.imgg{
+  /* background-image: url("C:\Users\Admin\Documents\GitHub\sudo_task_portfallio\machinetest\src\image\Ellipse 1.png"); */
+  margin-left: 20px;
+    width: 487.955px;
+height: 499px;
+flex-shrink: 0;
+box-shadow: -8.44213px -8.44213px 25.32639px 0px rgba(0, 0, 0, 0.10);
+background-repeat: no-repeat;
+background-size: 527px 542px;
+}
+#part2{
+  width: auto;
+    /* margin-top: 115px;
+    width: 700px;
+    height: 700px;
+flex-shrink: 0;
+border-radius: 500px;
+background: #FFF; */
+}
+.secondpart{
+ 
+}
+.sp1{
+  margin-left: 30%;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 474px;
+height: 67px;
+flex-shrink: 0;
+color: #FCF8F8;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.box1{
+  width: 195px;
+    height: 56px;
+flex-shrink: 0;
+display: flex;
+border-radius: 20px;
+background: rgba(217, 217, 217, 0.24);
+
+}
+.xd{
+  padding-left: 3px;
+  color: #FFF;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.Adobe{
+  padding: 4px;
+  color: #FFF;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.box2{
+  width: 195px;
+    height: 56px;
+flex-shrink: 0;
+display: flex;
+border-radius: 20px;
+  background: #BC93CF;
+}
+.box4{
+  margin-top: 34px;
+  width: 195px;
+    height: 56px;
+flex-shrink: 0;
+display: flex;
+border-radius: 20px;
+  background: #BC93CF;
+}
+.box3{
+  margin-top: 34px;
+  width: 195px;
+    height: 56px;
+flex-shrink: 0;
+display: flex;
+border-radius: 20px;
+background: rgba(217, 217, 217, 0.24);
+}
+.ptm{
+  margin: 20px;
+}
+.ptm.solid{outline-style: solid;}
